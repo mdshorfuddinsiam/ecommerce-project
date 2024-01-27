@@ -1,0 +1,72 @@
+1. Multi-auth set up kora
+
+** Admin Setup
+2. admin dashboard (admin.index) set up kora with (mastering)
+3. admin dashboard a (logout) functionality boshano
+4. admin login form set up kora
+5. (admin panel kata chera kora (ex: sidebar, dashboard, footer) egular extra jinish nai kora)
+6. admin profile setup (profile show, edit)
+7. (toaster js) setup for (admin profile update)
+8. admin change password setup
+	Q.S: return Admin::updateChangePassword($request); --- return kno must kora lage?
+
+** Frontend Setup
+9. home page ('/') set up kora with (mastering)
+10. user login form set up kora
+11. user register form set up kora
+	 N.B(*): (6/4) a kivabe (user table) a extra field add kore ta dekhano hoise (ex:phone)
+12. (header) a (login/register) a condition boshano j (login or logout) thakle ki likha dekhabe
+13. (forget pass & reset pass) form setup kora
+     P.B: (forget pass & reset pass) ta (admin) er jonno kaj kore nah... eta kivabe krbo??
+14. user dashboard (dashboard) set up kora with (user_sidebar including)
+15. user profile edit setup kora
+16. (toaster js) setup for (user profile update)
+17. user change password setup
+	 Q.S: return User::updateChangePassword($request); --- return kno must kora lage?
+	 N.B: (7/7) project (Github) a upload kore dekhano hoy
+
+** Backend 
+18. Brand crud complete
+	 N.B: (8/2) first time (data table) setup kore
+	 N.B(*): (8/4) te (Sidebar Menu Active) setup kore
+	 N.B(*): (8/5) te (Image Intervation Package) setup kore
+	 N.B: (8/8) first time (SweetAlert) setup kore (delete) er jonno
+19. Category & Subcategory crud complete
+	 N.B: (9/7) first time (relationship) kore
+20. SubSubcategory crud complete
+	 N.B: (10/1) (subsubcategory) er shathe (category & subcategory) (relationship) kore
+	 N.B: (10/2) first time (ajax) kore (category wise subcategory) er jonno
+21. Product crud complete
+	 N.B: (ajax, relationship) egula kora ache
+	 N.B: Dami (category,subcategory,subsubcategory,product) egula add krse
+	 P.B: (discount %) kivabe krlo bujhi nai??
+21. Slider crud complete
+	 N.B(*): (12/6) protect admin dashboard (add middleware)
+
+** Frontend
+22. Multiple Language setup krse
+	 N.B(*): (13.1) frontend er (header) a (language) dynamic krse jate (multiple language) use kora jay
+23. Frontend (header menu) dynamic kore (language) shoho
+	 N.B: (13.2, 13.3) 
+24. Frontend (index) er (vertica menu) dynamic kore (language) shoho
+	 N.B: (13.4, 13.5) 
+25. Frontend (index) er (slider) dynamic kore (language) shoho
+	 N.B: (13.6) 
+26. Frontend (index) er (slider) dynamic kore (language) shoho
+	 N.B: (13.6) 
+27. Frontend (index) er (New Products) section dynamic kore (language) shoho
+	 N.B: (13.7, 13.8) a (bootstrap tabs) ta dyanmic kore
+	 N.B: (13.9, 13.10) a (bootstrap tabs) er (product) gula dyanmic kore
+	 N.B(*): tobe (product) er (product-details, add-to-cart, wishlist) tokono dynamic kore nai
+28. Frontend (product-details) page ta dynamic kore (language) shoho
+	 N.B(*): (14.3) a (image-gallary) ta dyanmic kore
+	 N.B(*): tobe (product-details) er (HOT DEALS, UPSELL PRODUCTS, ADD-TO-CART, REVIEW, TAGS) emonki (color, size, qty) o tokono dynamic kore nai (newslatter, testimonials) er ktha bad e dilam
+29. Frontend (feature product) dynamic kore
+30. Frontend (hot deals) dynamic kore
+31. Frontend (speacial offer) dynamic kore
+32. Frontend (speacial deals) dynamic kore
+33. Frontend (skip cateagory wise products) show kore
+34. Frontend (skip brand wise products) show kore
+	 P.B: kivabe (special offer & special deals) er (slider) dynamic kore??
+	 N.B: (29 - 34) porjonto (add-to-cart, wish-list) tokhono kora hoy nai
+

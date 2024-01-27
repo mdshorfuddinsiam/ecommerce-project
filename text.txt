@@ -1,0 +1,123 @@
+* folder-5: 
+  v7:
+	1. Edit Form a (password) field nai kno 
+	2. (admin_profile_edit) er (<section class="content">pore<div class="row">) ta uthalo kno
+  v8: 
+ 	1. (javascript) er part bujhi nai (image part)
+ 	[search: show file image in img tag using jquery]
+  v9:
+  	[search: How to pass data to all views in Laravel ][view composer]
+  	1. (Crud) chnage hoise
+  	2. (body.header) file a (admin data) na diye (view composer) er maddhome disi
+  v10:
+    [search: how to use toastr js in laravel]
+    [https://www.larashout.com/adding-toastr-notifications-in-laravel-application]
+    1. (toaster js) er script bujhi nah
+  v11:
+  v12:
+    [use Illuminate\Support\Facades\Hash;]
+* folder-6:
+  v1:
+  v2:
+  v3:
+  v4:
+    [add new column in existing table]
+    [search: how to add column in laravel migration]
+    [search: Laravel Add a new column to existing table in a migration]
+    [search: how to show error message in laravel blade]
+    [https://laravel.com/docs/9.x/validation]
+    1. manually column add na kore (migration diye add krsi)
+    2 [validation] customize ta bujhi nai (mane proccessing)
+  v5: 
+    1. (update password) er (route) concept niye problem ase
+    3 (error massege) show korano bujhi nai
+  v5:
+    1. (mailtarap topic) bujha lagebe
+
+* folder-6:
+  v1:
+    1. {{ Auth::user()->name }} user dashboard page a kaj kortase kivabe (confuse)
+  v2: 
+    1. (user) er jonno (IndexController) use korar bepar ta jukti jukto kina
+  v3:
+    1. abar o (view composer) use kora hoise
+    2. abar o (crud style) change kora hoise
+    3. abar o (user.profile.update) route name change kora hoise
+  v4:
+* folder-8:
+  v6: 
+    1. <span class="invalid-feedback" role="alert">
+                    <strong class="text-danger">{{ $message }}</strong>
+       </span>
+       (brands) form a (span) tag ta (class) shoho dhortasilo nah kno
+    [Sweetalert Bujhte hobe (script)]
+* folder-9:
+    [update korar shomoy (cateroy name unique) krbo kivabe]
+    [relationship ta clear howa drkar]
+    [search:how to get route prefix in laravel blade]
+    [search:how to current route in laravel blade]
+
+* folder-9:
+    1. (fileReader) er code buji nai   
+    [serch:create get id laravel]
+    [https://stackoverflow.com/questions/37075148/laravel-get-the-id-of-usercreate-and-insert-new-row-using-that-id]
+    [search:except method into create method in laravel]
+    [https://laracasts.com/discuss/channels/laravel/l5-modelcreate-except-certain-fields]
+    
+* folder-12:
+    1. (validation) niye question ase   
+
+* folder-13:
+    1. (session) niye confuse (Language Contoller) er moddhe....(get() r forget()) niye
+    2. (relationship) diye kivabe (categorywise) product show korabo
+
+* folder-14:
+    1. (relationship) diye kivabe (single) product er (gallery image) show korabo
+
+* folder-15:
+    1. (special offer) a kno slider akare (product) dekhano hoy nah....r dekhalei ba ta kivabe
+
+* folder-16:
+    1. (product tags) gula alada (table) a save kore (relation) er maddhome kivabe ana jay
+
+* folder-19:
+    1. (Add To Cart) korar por (sweertalert) diye (msg) show koranor (script) bujhi nai
+    2. pura project ar (foldering structure) bujtasi nah....(standard) foldering bujhte hobe
+
+
+* folder-20:
+    1. Login chara (wishlist page) na show koranor jonno (user) middleware er kaj bujhi nai
+    2. (Wishlist Product name) ta daynamic krbo kivabe (En/Bn)
+    3. (js[wishlist()]) er moddhe (string) er moddhe (php if-else) use kivabe krbo...for (en/bn)
+
+* folder-22:
+    1. (date) format bujhar bepar ase
+
+* folder-24:
+    1. (cartcontroller) kno use hoile (coupon apply) er jonno
+
+* folder-32:
+    1. (DateTime) ai class er kaj bujhte hobe
+    2. 
+
+* folder-33:
+    1. Blog er Frontend desing onujayi (date) ta boshano shikha
+    2. Blog er (comment) system ta shikha
+    3. (blog_cat_list) banate jeye (blog_list) blade a (category) te (route/link) dite partesi nah
+
+* folder-34:
+    1. google anyalytics er use jana
+    2. (seo setting) part ta valo vabe discuss kora...j realstick seo kivabe kore
+   
+* folder-37:
+    1. (DateTime) ai class er kaj bujhte hobe.....(date) function er kaj bujhte hobe.......r ai 2tar difference ki.....konta kkhon use kora hoy
+    2. 
+   
+* folder-38:
+    1. (admin) (email_varified, r remember_token) field er kaj ta dekhay nai...agula diye ki kaj kore
+    2. 
+
+
+
+
+  my pc is very slow windows 10 what can i do
